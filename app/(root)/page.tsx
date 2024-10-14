@@ -11,5 +11,5 @@ const Home = ()=>{
     </div>
   )
 }
-// bcxzcbmz
+// bcxzcbmz.
 export default Home
