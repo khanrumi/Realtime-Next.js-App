@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "JSNEXT",
+			"path": "../../../../.."
+		},
+		{
+			"name": "plugins",
+			"path": "../../../../../../../Downloads/collaborative-editor-main/components/editor/plugins"
+		},
+		{
+			"name": "public",
+			"path": "../../../../../../../Downloads/public"
+		}
+	],
+	"settings": {}
+}
